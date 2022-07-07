@@ -16,7 +16,7 @@
     "jquery": "^3.5.1",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "postcss-pxtorem": "^5.1.1",
     "screenfull": "^5.0.2",
     "vue": "^2.5.2",
